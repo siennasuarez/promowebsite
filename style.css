@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+h1 {	
+
+	text-align: center;
+	text-size-adjust: 400px;
+	font-family: 'Bungee Spice', sans-serif;
+	background-color: black;
+
+}
+
+
+
+p {
+	text-align: center;
+	background-color: black;
+}
+
+.textdesign {
+	display: inline-block;
+	width: 320px;
+	color: darkseagreen;
+}
+
+.videodesign {
+	text-align: center;
+	margin: auto;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}
+
+body{
+
+	text-align: center;
+	background-image: url(https://f4.bcbits.com/img/a1555444215_10.jpg);
+	}"
+
